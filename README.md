@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [www.lesaloondev.me](https://www.lesaloondev.me)
 
-- 💬 Ask me about **js**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **lesaloondev@gmail.com**
 
