@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **VueJs**
 
-- 👨‍💻 All of my projects are available at [www.lesaloondev.me](www.lesaloondev.me)
+- 👨‍💻 All of my projects are available at [www.lesaloondev.me](https://www.lesaloondev.me)
 
 - 💬 Ask me about **js**
 
