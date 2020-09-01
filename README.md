@@ -30,10 +30,10 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
 </p><p>&nbsp;
   
-<a href="https://www.buymeacoffee.com/Lesaloon" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/Lesaloon" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;border-radius: 25%; margin: 0 auto;" ></a>
 
 </p><p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lesaloon&show_icons=true" alt="lesaloon" /></p>
+<img align="center" style="margin: 0 auto;"src="https://github-readme-stats.vercel.app/api?username=lesaloon&show_icons=true" alt="lesaloon" /></p>
 
 <p align="center">
 <a href="https://dev.to/lesaloon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="lesaloon" height="30" width="30" /></a>
