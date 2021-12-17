@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Lesaloon</h1>
-<h3 align="center">full stack developper from france</h3>
+<h3 align="center">developper from france</h3>
 
 - 💻 I’m currently working on [BitsGraf](https://bitsgraf.lesaloondev.me/)
 
