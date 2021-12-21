@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Lesaloon</h1>
 <h3 align="center">developper from france</h3>
 
-- 💻 I’m currently working on [BitsGraf](https://bitsgraf.lesaloondev.me/)
+- 💻 I’m currently working on [MinecraftWhitelist BOT](https://github.com/Lesaloon/MinecraftWhitelist)
 
 - 🌱 I’m currently learning **VueJs** and **Java**
 
