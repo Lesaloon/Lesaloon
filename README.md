@@ -3,9 +3,7 @@
 
 - 💻 I’m currently working on [BitsGraf](https://bitsgraf.lesaloondev.me/)
 
-- 🌱 I’m currently learning **VueJs**
-
-- 👨‍💻 All of my projects are available at [www.lesaloondev.me](https://www.lesaloondev.me)
+- 🌱 I’m currently learning **VueJs** and **Java**
 
 - 💬 Ask me about **JavaScript**
 
