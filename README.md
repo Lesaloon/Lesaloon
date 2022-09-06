@@ -3,7 +3,7 @@
 
 - 💻 I’m currently working on [MinecraftWhitelist BOT](https://github.com/Lesaloon/MinecraftWhitelist)
 
-- 🌱 I’m currently learning **VueJs** and **Java**
+- 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **JavaScript**
 
