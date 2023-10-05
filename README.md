@@ -7,7 +7,7 @@
 
 -   🤬 **PHP** hater and i know it.
 
--   🎓Will graduate from <a href="https://www.intechinfo.fr/" >Intech</a> in **2027** !!!
+-   🎓Will graduate from <a href="https://www.esiea.fr/" >ESIEA</a> in **2027** !!!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
