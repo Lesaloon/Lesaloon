@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lesaloon</h1>
 <h3 align="center">A passionate back-end developer from France</h3>
 
--   🌱 I’m currently learning **Angular** and **C#** is next !
+-   🌱 I’m currently learning **Java/JEE** !
 
--   💬 Ask me about **JavaScript, Node, Python**
+-   💬 Ask me about **C#**, **Node**, **Python**
 
 -   🤬 **PHP** hater and i know it.
 
