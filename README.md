@@ -5,7 +5,7 @@
 
 -   💬 Ask me about **C#**, **Node**, **Python**
 
--   🤬 **PHP** hater and i know it.
+-   🤷‍♂️ Love hate relationship with **PHP**.
 
 -   🎓Will graduate from <a href="https://www.esiea.fr/" >ESIEA</a> in **2027** !!!
 
