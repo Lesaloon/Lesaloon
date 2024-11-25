@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Lesaloon</h1>
 <h3 align="center">Passionate back-end developer from France</h3>
 
--   🌱 I’m currently learning **Java/JEE** !
+-   🌱 I’m currently learning lots of **AI** consepts !
 
--   💬 Ask me about **C#**, **Node**, **Python**
+-   💬 Ask me about **C#**, **NodeJs**, **Python**
 
 -   🤷‍♂️ Love hate relationship with **PHP**.
 
--   🎓Will graduate from <a href="https://www.esiea.fr/" >ESIEA</a> in **2027** !!!
+-   🎓 Will graduate from <a href="https://www.esiea.fr/" >ESIEA</a> in **2027** !!!
+
+-   🧠 Working at <a href="https://www.exakis-nelite.com/">Exakis Nelite</a> since **2024** !
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
