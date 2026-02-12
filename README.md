@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lesaloon</h1>
+<h6 align="center"><small><small><small>in a relationship wiht Nisto-Dev 👉👈</small></small></small></h6>
 <h3 align="center">Passionate back-end developer from France</h3>
 
--   🌱 I’m currently learning lots of **AI** consepts !
+-   🌱 I’m currently learning lots of **AI** concepts !
 
 -   💬 Ask me about **C#**, **NodeJs**, **Python**
 
