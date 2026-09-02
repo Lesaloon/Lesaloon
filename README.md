@@ -10,6 +10,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-900 Azure Fundamentals"/>
+  <img src="https://img.shields.io/badge/DP--900-Azure%20Data%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="DP-900 Azure Data Fundamentals"/>
   <img src="https://img.shields.io/badge/AI--900-Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AI-900 Azure AI Fundamentals"/>
   <img src="https://img.shields.io/badge/GH--900-GitHub%20Foundations-181717?style=for-the-badge&logo=github&logoColor=white" alt="GH-900 GitHub Foundations"/>
 </p>
@@ -18,7 +19,6 @@
 Upcoming certifications — uncomment once earned:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/DP--900-Azure%20Data%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="DP-900 Azure Data Fundamentals"/>
   <img src="https://img.shields.io/badge/SC--900-Security%20Compliance%20%26%20Identity%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="SC-900 Security, Compliance, and Identity Fundamentals"/>
 </p>
 -->
