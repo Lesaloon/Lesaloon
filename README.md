@@ -4,7 +4,7 @@
 * 🌱 I’m currently learning more about **AI**, **cloud**, and modern backend architectures
 * 💬 Ask me about **C#**, **.NET**, **Node.js**, and **Python**
 * 🎓 Graduating from <a href="https://www.esiea.fr/">ESIEA</a> in **2027**
-* 🧠 Working at <a href="https://www.exakis-nelite.com/">Exakis Nelite</a> since **2024**
+* 🧠 Working at <a href="https://www.magellangroup.eu/fr/">Magellan MSC</a> since **2024**
 
 <h3 align="left">Certifications:</h3>
 
@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/DP--900-Azure%20Data%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="DP-900 Azure Data Fundamentals"/>
   <img src="https://img.shields.io/badge/AI--900-Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AI-900 Azure AI Fundamentals"/>
   <img src="https://img.shields.io/badge/GH--900-GitHub%20Foundations-181717?style=for-the-badge&logo=github&logoColor=white" alt="GH-900 GitHub Foundations"/>
+  <img src="https://img.shields.io/badge/AI--103-Developing%20AI%20Apps%20and%20Agents%20on%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AI-103 Developing AI Apps and Agents on Azure"/>
 </p>
 
 <!--
